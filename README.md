@@ -45,10 +45,15 @@ This project demonstrates:
 # 📂 Project Structure
 
 amazon-laptop-scraper/
+
 │
+
 ├── demo.py
+
 ├── README.md
+
 ├── amazon_laptops.csv
+
 └── amazon_laptops.xlsx
 
 
